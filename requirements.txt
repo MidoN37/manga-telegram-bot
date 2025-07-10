@@ -1,5 +1,5 @@
-python-telegram-bot
+fastapi
+uvicorn
+python-telegram-bot[ext]
 requests
 Pillow
-httpx
-apscheduler
